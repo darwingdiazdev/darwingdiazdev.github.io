@@ -17,6 +17,9 @@ export const dictionary = {
     },
     hero: {
       title: 'Hola, soy Darwing!',
+      lead:
+        'Aquí puedes escribir una breve presentación: quién eres, qué haces y qué te motiva.',
+      imageAlt: 'Retrato de Darwing',
     },
   },
   en: {
@@ -35,6 +38,9 @@ export const dictionary = {
     },
     hero: {
       title: "Hello, I'm Darwing!",
+      lead:
+        'Use this space for a short intro: who you are, what you do, and what drives you.',
+      imageAlt: 'Portrait of Darwing',
     },
   },
 } as const

@@ -4,8 +4,8 @@ import type { Locale } from '../../i18n/messages'
 
 const linkKeys = [
   { href: '#inicio', key: 'home' as const },
-  { href: '#proyectos', key: 'projects' as const },
   { href: '#sobre-mi', key: 'about' as const },
+  { href: '#proyectos', key: 'projects' as const },
   { href: '#contacto', key: 'contact' as const },
 ]
 
